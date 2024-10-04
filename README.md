@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm laddaramanuj</h1>
 <h3 align="center">Turning Ideas into Reality with Code!</h3>
 
-- 🔭 I’m currently working on **new project**
-
 - 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/laddaramanuj](https://github.com/laddaramanuj)
